@@ -1,5 +1,5 @@
 <?php
-
+date_default_timezone_set('Asia/Jakarta');
     	include "mysql_connect.php";
     	if(isset($_POST['next_current']) and ($_POST['next_current'] != NULL)){
     		$cek_request_counter = $mysqli->query("SELECT count(*) as count FROM data_antrian WHERE status=4");

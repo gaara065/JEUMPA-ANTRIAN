@@ -272,8 +272,7 @@ body  {
 				<br>
 			</td>
 			<td class="et1" height="30px">
-		&nbsp;	<iframe scrolling="no" frameborder="no" clocktype="html5" style="overflow:hidden;border:0;margin:0;padding:0;width:120px;height:40px;"src="https://www.clocklink.com/html5embed.php?clock=043&timezone=GMT0700&color=black&size=120&Title=&Message=&Target=&From=2019,1,1,0,0,0&Color=black"></iframe>
-
+		&nbsp;	
 			</td>
 			<td class="et2" colspan="4" height="">
 			<font size='6px' color='BLACK'>
